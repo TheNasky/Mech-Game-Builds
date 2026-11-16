@@ -1,16 +1,16 @@
 {
- "version": "2026.11.16-2a07667",
- "commit": "2a07667",
+ "version": "2026.11.16-3018777",
+ "commit": "3018777",
  "date": "16 Nov 2026",
- "pck": "builds/2026.11.16-2a07667/game.pck",
- "sha256": "dbed635740481b97ad0b7a33be3053bd12c1bbcccefe76c842f49c060a4d9262",
- "size": 1561716,
+ "pck": "builds/2026.11.16-3018777/game.pck",
+ "sha256": "9b13af732bce43936e74a8f0a4378d7ec2fc026018da1bc2cd66938570caa57e",
+ "size": 1564772,
  "server": "",
  "launcher": 1,
  "kit": "https://github.com/TheNasky/Mech-Game-Builds/releases/latest",
  "notes": [
-  "First launcher build: main menu with PLAY ONLINE, PRIVATE LOBBY (four-letter codes), PLAY VS BOTS and HANGAR",
+  "Main menu with PLAY ONLINE, PRIVATE LOBBY (four-letter codes), PLAY VS BOTS and HANGAR",
   "Online: quick match with countdown, bots fill empty slots, several matches can run at once",
-  "Weapons, sound and abilities pass from the 15 Nov playtest"
+  "Launcher shows a live mech"
  ]
 }
