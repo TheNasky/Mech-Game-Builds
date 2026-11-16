@@ -1,20 +1,20 @@
 {
- "version": "2026.11.16-f54e808",
- "commit": "f54e808",
- "date": "16 Nov 2026, 06:31 UTC",
- "published": "2026-11-16T06:31:43Z",
- "published_unix": 1794810703,
- "pck": "builds/2026.11.16-f54e808/game.pck",
- "sha256": "9b48781415ec5555a599f23459e1921e6bc91aeabff8d24a378646e67a528150",
- "size": 1752164,
+ "version": "2026.11.16-525fc6e",
+ "commit": "525fc6e",
+ "date": "16 Nov 2026, 22:25 UTC",
+ "published": "2026-11-16T22:25:53Z",
+ "published_unix": 1794867953,
+ "pck": "builds/2026.11.16-525fc6e/game.pck",
+ "sha256": "96756ac26383958a39a9e21d186748823a6c6697bc473ada1bef16a2d5218e93",
+ "size": 11825116,
  "server": "play.valentin-ballesteros.site",
  "launcher": 2,
  "kit": "https://github.com/TheNasky/Mech-Game-Builds/releases/latest",
  "notes": [
-  "Online: the game's own server at play.valentin-ballesteros.site, PLAY ONLINE needs no address",
-  "PLAY VS BOTS opens a setup screen: mech, mode, team size, map, conditions, bot skill",
-  "The game opens fullscreen at 1920x1080; the launcher is a small window",
-  "The launcher shows when each update came out and now updates itself",
-  "Plus tonight's mech, weapon, reload and performance work"
+  "Story missions: Proving Ground, The Ice Bridge, The Giant, Payback, fully voiced",
+  "New mechs built from their paintings: Big John, Big John Brawler, Pronghorn, Catamount, Mini Bulldog, Longbow, Bulwark, Warden family, Roustabout",
+  "New maps and looks: Timberline forest, Dry Fork canyon, Kettle Bay, Foundry Nine, Whitehorse Gap",
+  "MechWarrior-style armour diagrams; boosts capped at +40% speed",
+  "Crash fixes at launch and mid-match; HUD fonts fixed in this build"
  ]
 }
