@@ -1,16 +1,20 @@
 {
- "version": "2026.11.16-3018777",
- "commit": "3018777",
- "date": "16 Nov 2026",
- "pck": "builds/2026.11.16-3018777/game.pck",
- "sha256": "9b13af732bce43936e74a8f0a4378d7ec2fc026018da1bc2cd66938570caa57e",
- "size": 1564772,
- "server": "",
- "launcher": 1,
+ "version": "2026.11.16-f54e808",
+ "commit": "f54e808",
+ "date": "16 Nov 2026, 06:31 UTC",
+ "published": "2026-11-16T06:31:43Z",
+ "published_unix": 1794810703,
+ "pck": "builds/2026.11.16-f54e808/game.pck",
+ "sha256": "9b48781415ec5555a599f23459e1921e6bc91aeabff8d24a378646e67a528150",
+ "size": 1752164,
+ "server": "play.valentin-ballesteros.site",
+ "launcher": 2,
  "kit": "https://github.com/TheNasky/Mech-Game-Builds/releases/latest",
  "notes": [
-  "Main menu with PLAY ONLINE, PRIVATE LOBBY (four-letter codes), PLAY VS BOTS and HANGAR",
-  "Online: quick match with countdown, bots fill empty slots, several matches can run at once",
-  "Launcher shows a live mech"
+  "Online: the game's own server at play.valentin-ballesteros.site, PLAY ONLINE needs no address",
+  "PLAY VS BOTS opens a setup screen: mech, mode, team size, map, conditions, bot skill",
+  "The game opens fullscreen at 1920x1080; the launcher is a small window",
+  "The launcher shows when each update came out and now updates itself",
+  "Plus tonight's mech, weapon, reload and performance work"
  ]
 }
